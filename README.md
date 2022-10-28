@@ -1,6 +1,6 @@
 # ClashRules
 
-自用 clash 分流规则 , 请不要⭐
+自用 clash 分流规则 。~~请不要⭐，或者Fork~~ 
 
 暂时停更
 
